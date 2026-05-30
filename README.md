@@ -1,6 +1,4 @@
 # SIEM-Detection-as-Code.
-# SIEM Detection-as-Code (DaC)
-
 ## Overview
 This repository serves as a centralized, version-controlled environment for managing Security Information and Event Management (SIEM) detection rules. By implementing a Detection-as-Code (DaC) methodology, this project automates the deployment and synchronization of security alerts across different SIEM platforms, specifically Splunk and IBM QRadar.
 
